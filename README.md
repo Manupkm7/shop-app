@@ -1,7 +1,9 @@
 Esta aplicación la hice para practicar un poco sobre Redux y el uso de las API
+
+**
 ![fakestore](https://user-images.githubusercontent.com/70714424/117761073-1dd0d680-b1fd-11eb-933b-d452b416bb53.png)
 ![detailstore](https://user-images.githubusercontent.com/70714424/117761088-22958a80-b1fd-11eb-9146-d89f228d25d7.png)
-
+**
 
 
 ## Available Scripts
